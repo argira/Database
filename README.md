@@ -1,2 +1,2 @@
 # Database
-Database creation for Sales busines
+Database creation for Sales business
